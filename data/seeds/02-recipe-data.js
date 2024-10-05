@@ -37,7 +37,7 @@ const step_ingredients = [
         {step_id: 12, ingredient_id: 10, quantity: 3},
         {step_id: 12, ingredient_id: 11, quantity: 8},
         {step_id: 12, ingredient_id: 13, quantity: 240},
-        {step_id: 12, ingredient_id: 12, quantity: 300}
+        {step_id: 12, ingredient_id: 12, quantity: 30}
     ]
 
 const steps = [
